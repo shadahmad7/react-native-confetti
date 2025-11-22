@@ -1,6 +1,6 @@
 {
   "name": "@shadahmad7/react-native-confetti",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pure JS/TS Confetti View and Controller for React Native (no native code required)",
   "main": "dist/index.js",
   "module": "dist/index.js",
